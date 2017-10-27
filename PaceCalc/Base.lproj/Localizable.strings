@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  PaceCalc
+
+  Created by Remington Breeze on 11/25/15.
+  Copyright © 2015 Remington Breeze. All rights reserved.
+*/
+
+DAY = "Day";
+ENTER = "Enter";
+AVERAGE_PACE = "Average Pace";
+DETAILS = "Details";
+BACK = "Back";
+DISMISS = "Dismiss";
+COPY = "Copy";
+SUCCESS = "Success";
+IN = "in";
+SEPARATOR = ".";
+CALCULATE = "Calculate";
+UNKNOWN = "Unknown";
+NOTICE = "Notice";
+
+KILOMETERS = "Kilometers";
+MILES = "Miles";
+
+INVALID_INPUT = "Invalid Input";
+ERROR_SAVING = "Error Saving Workout";
+
+ERROR_CALCULATE_MISSING = "Please enter valid workout data.";
+ERROR_DATE = "Please enter a valid date.";
+ERROR_DURATION = "Please enter a valid duration.";
+ERROR_DISTANCE = "Please enter a valid distance.";
+ERROR_HEALTH_AUTH = "There was an error saving your workout. Please make sure that you have allowed Health access.";
+NOT_YET_SET = "Not yet set";
+NO_DATA = "No data";
+
+BMR_DATA_NOTICE = "Please note that personal information must be entered through the Health app.";
+
+SUCCESS_SAVING = "Your workout has successfully been saved to the Health app.";

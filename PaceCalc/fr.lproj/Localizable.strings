@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  PaceCalc
+
+  Created by Remington Breeze on 11/25/15.
+  Copyright © 2015 Remington Breeze. All rights reserved.
+*/
+
+DAY = "Jour";
+ENTER = "Entrer";
+AVERAGE_PACE = "Rythme Moyen";
+DETAILS = "Détails";
+BACK = "Retourner";
+DISMISS = "Rejeter";
+COPY = "Copier";
+SUCCESS = "Succès";
+IN = "à";
+SEPARATOR = ",";
+CALCULATE = "Calculer";
+UNKNOWN = "Inconnu";
+NOTICE = "Avis";
+
+KILOMETERS = "Kilomètres";
+MILES = "Miles";
+
+INVALID_INPUT = "Entrée Invalide";
+ERROR_SAVING = "Erreur quand Enregistrer l'Exercice";
+
+ERROR_CALCULATE_MISSING = "S'il vous plaît entrer données valide de l'exercice.";
+ERROR_DATE = "S'il vous plaît entrer une date valide.";
+ERROR_DURATION = "S'il vous plaît entrer une durée valide.";
+ERROR_DISTANCE = "S'il vous plaît entrer une distance valide.";
+ERROR_HEALTH_AUTH = "Il y avait une erreur quand enregistrer votre exercise. S'il vous plaît assurez-vous que vous avez autorisé l'App de Santé.";
+NOT_YET_SET = "Pas Defini";
+NO_DATA = "Pas de données";
+
+BMR_DATA_NOTICE = "S'il vous plaît remarquez information personnel doit être entré par l'App de Santé.";
+
+SUCCESS_SAVING = "Votre excercice avait enregistrer á l'App de Santé avec succès.";

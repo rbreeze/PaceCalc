@@ -1,0 +1,135 @@
+
+/* Class = "UINavigationItem"; title = "Pace Calculator"; ObjectID = "0Tu-B6-Bpp"; */
+"0Tu-B6-Bpp.title" = "Calculateur de Pas";
+
+/* Class = "UINavigationItem"; title = "Pick Workout"; ObjectID = "353-Md-RDs"; */
+"353-Md-RDs.title" = "Choisissez Excercice";
+
+/* Class = "UINavigationItem"; title = "More"; ObjectID = "4M8-Uh-i5K"; */
+"4M8-Uh-i5K.title" = "Autre";
+
+/* Class = "UITextField"; placeholder = "mm:ss"; ObjectID = "8Tb-zj-Rh1"; */
+"8Tb-zj-Rh1.placeholder" = "mm:ss";
+
+/* Class = "UILabel"; text = "Enter"; ObjectID = "8ep-vj-K0P"; */
+"8ep-vj-K0P.text" = "Entrer";
+
+/* Class = "UINavigationItem"; title = "BMR"; ObjectID = "BsM-UT-aPW"; */
+"BsM-UT-aPW.title" = "BMR";
+
+/* Class = "UILabel"; text = "Unknown"; ObjectID = "Cb6-is-9iJ"; */
+"Cb6-is-9iJ.text" = "Inconnu";
+
+/* Class = "UILabel"; text = "Not yet set"; ObjectID = "DDi-SN-EXj"; */
+"DDi-SN-EXj.text" = "Pas Defini";
+
+/* Class = "UILabel"; text = "7:05"; ObjectID = "E0N-Md-FgX"; */
+"E0N-Md-FgX.text" = "7:05";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "GJF-89-HML"; */
+"GJF-89-HML.text" = "Âge";
+
+/* Class = "UILabel"; text = "BMR"; ObjectID = "HWZ-D1-U9h"; */
+"HWZ-D1-U9h.text" = "BMR";
+
+/* Class = "UILabel"; text = "BMR"; ObjectID = "Had-WJ-B1P"; */
+"Had-WJ-B1P.text" = "BMR";
+
+/* Class = "UITabBarItem"; title = "Pace"; ObjectID = "Had-dX-mIv"; */
+"Had-dX-mIv.title" = "Pas";
+
+/* Class = "UILabel"; text = "Calculate Missing Item"; ObjectID = "J9R-dN-TTX"; */
+"J9R-dN-TTX.text" = "Calculer Élément Manquant";
+
+/* Class = "UINavigationItem"; title = "Distance Unit"; ObjectID = "Lbf-WR-xXP"; */
+"Lbf-WR-xXP.title" = "Unité de Distance";
+
+/* Class = "UILabel"; text = "Kilometers"; ObjectID = "Mq3-6E-NTz"; */
+"Mq3-6E-NTz.text" = "Kilomètres";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "Oyl-8v-B3j"; */
+"Oyl-8v-B3j.text" = "Taille";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "PKJ-r3-die"; */
+"PKJ-r3-die.title" = "Réglages";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "PkZ-W5-yWc"; */
+"PkZ-W5-yWc.text" = "Détail";
+
+/* Class = "UILabel"; text = "No data"; ObjectID = "QtY-0L-K0T"; */
+"QtY-0L-K0T.text" = "Pas de données";
+
+/* Class = "UILabel"; text = "No data"; ObjectID = "SAf-7F-knt"; */
+"SAf-7F-knt.text" = "Pas de données";
+
+/* Class = "UILabel"; text = "Miles"; ObjectID = "SdG-o8-rzi"; */
+"SdG-o8-rzi.text" = "Miles";
+
+/* Class = "UILabel"; text = "Day 1"; ObjectID = "USW-sF-OrL"; */
+"USW-sF-OrL.text" = "Jour 1";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "UaE-bm-FJh"; */
+"UaE-bm-FJh.text" = "Titre";
+
+/* Class = "UILabel"; text = "Miles"; ObjectID = "VV7-hs-6B5"; */
+"VV7-hs-6B5.text" = "Miles";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Xd2-P1-SZE"; */
+"Xd2-P1-SZE.text" = "Date";
+
+/* Class = "UITextField"; placeholder = "mm:ss"; ObjectID = "Yzq-uD-YLu"; */
+"Yzq-uD-YLu.placeholder" = "mm:ss";
+
+/* Class = "UILabel"; text = "Calculate"; ObjectID = "a64-w1-gbN"; */
+"a64-w1-gbN.text" = "Calculer";
+
+/* Class = "UILabel"; text = "Day One"; ObjectID = "auF-Da-4KS"; */
+"auF-Da-4KS.text" = "Jour Un";
+
+/* Class = "UILabel"; text = "Total Time"; ObjectID = "cFA-K1-p5u"; */
+"cFA-K1-p5u.text" = "Temps Total";
+
+/* Class = "UINavigationItem"; title = "Day One"; ObjectID = "eh9-9J-OX5"; */
+"eh9-9J-OX5.title" = "Jour Un";
+
+/* Class = "UITableViewSection"; headerTitle = "Profile"; ObjectID = "fDm-yk-oOb"; */
+"fDm-yk-oOb.headerTitle" = "Profil";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "fga-2h-bSK"; */
+"fga-2h-bSK.text" = "Distance";
+
+/* Class = "UILabel"; text = "Choose"; ObjectID = "gVg-pz-aXL"; */
+"gVg-pz-aXL.text" = "Choissisez";
+
+/* Class = "UINavigationItem"; title = "Date"; ObjectID = "gXg-yF-w9n"; */
+"gXg-yF-w9n.title" = "Date";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "h3J-8M-7Ip"; */
+"h3J-8M-7Ip.text" = "Pas";
+
+/* Class = "UITextField"; placeholder = "Miles"; ObjectID = "oA0-WC-Gf5"; */
+"oA0-WC-Gf5.placeholder" = "Miles";
+
+/* Class = "UILabel"; text = "Choose from Health App"; ObjectID = "p3M-wd-FtD"; */
+"p3M-wd-FtD.text" = "Choissisez parmi l'App de Santé";
+
+/* Class = "UINavigationItem"; title = "Results"; ObjectID = "pUL-bw-Qbd"; */
+"pUL-bw-Qbd.title" = "Resultats";
+
+/* Class = "UILabel"; text = "Save to Health App"; ObjectID = "rlf-T8-CsV"; */
+"rlf-T8-CsV.text" = "Enregistrer à l'App de Santé";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "tCw-tF-oAI"; */
+"tCw-tF-oAI.title" = "Réglages";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "voD-iT-EZZ"; */
+"voD-iT-EZZ.text" = "Poids";
+
+/* Class = "UITableViewSection"; headerTitle = "Units"; ObjectID = "xs9-gu-OM5"; */
+"xs9-gu-OM5.headerTitle" = "Unités";
+
+/* Class = "UINavigationController"; title = "Calculator"; ObjectID = "xtX-im-U8g"; */
+"xtX-im-U8g.title" = "Calculatrice";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "zxb-8S-7pz"; */
+"zxb-8S-7pz.text" = "Distance";
